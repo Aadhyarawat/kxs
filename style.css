@@ -1,0 +1,20 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px greenyellow;
+}
+.note{
+    font-size: 15px;
+    color: indigo;
+
+}
+.copy_right_footer{
+ color: darkcyan;
+ box-shadow: darkorange;
+ position: fixed;
+}
+canvas{
+    box-shadow: darkseagreen;
+    border: deeppink;
+}
